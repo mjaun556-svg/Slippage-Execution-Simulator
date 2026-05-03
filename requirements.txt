@@ -1,0 +1,9 @@
+# Slippage & Execution Simulator — Dependencies
+#
+# This project intentionally uses Python's standard library only
+# for the core logic (json, csv, argparse, urllib).
+#
+# The only external dependency is for running tests.
+
+# Testing framework
+pytest==8.3.5
